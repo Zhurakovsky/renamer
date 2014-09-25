@@ -12,7 +12,4 @@ TARGET = renamer
 TEMPLATE = app
 
 
-SOURCES += main.cpp\
-        widget.cpp
-
-HEADERS  += widget.h
+SOURCES += main.cpp
